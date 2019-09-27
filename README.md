@@ -1,6 +1,6 @@
 # Optimizar operaciones de listas en Python
 
-Tenemos una lista (Lista A) que contiene 2 millones de ID de los clientes que reciben un determinado servicio, por otro lado tenemos una lista (Lista B) que contiene 850,000 ID de clientes que han realizado el pago de su servicio del mes de Abril. Se necesita saber cuales son los ID de clientes que aún no han pagado su servicio.
+Tenemos una lista (**Lista A**) que **contiene 2 millones de ID de los clientes** que reciben un determinado servicio, por otro lado tenemos una lista (**Lista B**) que **contiene 850,000 ID de clientes** que han realizado el pago de su servicio del mes de Abril. Se necesita saber cuales son los ID de clientes que aún no han pagado su servicio.
 
 ## Solución
 
