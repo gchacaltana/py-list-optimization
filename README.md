@@ -10,7 +10,7 @@ Vamos a resolver este problema con *3 alternativas distintas* (métodos getDiffe
 
 ## Ejecución
 
-$> py OperationList.py 2000000 850000 0
-$> py OperationList.py 500000 2000 1
+    $> py OperationList.py 2000000 850000 0 
+    $> py OperationList.py 500000 2000 1
 
 La cantidad de elementos que deben tener las listas A y B son enviadas como argumentos en la invocación del script. Puedes intentar cambiar estos valores si lo deseas. El tercer argumento es para indicarle al programa que genere los elementos de ambas listas de forma aleatoria o secuencial.
