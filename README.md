@@ -7,3 +7,10 @@ Tenemos una lista (Lista A) que contiene 2 millones de ID de los clientes que re
 La solución parece resultar simple, debemos de saber que IDs de la Lista A no están en la Lista B. Si bien el algoritmo parece tener todo el sentido del mundo, es importante emplear las funciones y herramientas correctas en la codificación.
 
 Vamos a resolver este problema con *3 alternativas distintas* (métodos getDifferent1, getDifferent2 y getDifferent3). El contenido de las listas se generarán de manera aleatoria y de manera secuencial. Finalmente el script mostrará en pantalla los tiempos de ejecución de las 3 alternativas.
+
+## Ejecución
+
+$> py OperationList.py 2000000 850000 0
+$> py OperationList.py 500000 2000 1
+
+La cantidad de elementos que deben tener las listas A y B son enviadas como argumentos en la invocación del script. Puedes intentar cambiar estos valores si lo deseas. El tercer argumento es para indicarle al programa que genere los elementos de ambas listas de forma aleatoria o secuencial.
